@@ -12,3 +12,4 @@ joblib
 types-pyYAML
 flask
 flask-cors
+ipykernel
